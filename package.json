@@ -1,0 +1,23 @@
+{
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "![License](https://img.shields.io/badge/License-MIT_License-lightblue.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ivana-Djordjevic/svg-logo-maker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ivana-Djordjevic/svg-logo-maker/issues"
+  },
+  "homepage": "https://github.com/Ivana-Djordjevic/svg-logo-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
