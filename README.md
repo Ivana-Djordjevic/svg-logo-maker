@@ -4,16 +4,16 @@
 
 ## Table of Contents
 
+- [Description](#description)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Description](#description)
 - [License](#license)
-- [Contributing](#contributing)
 - [Tests](#tests)
+- [Credit](#credit)
 
 ## Description
 
-### User Story
+### User Story*
 
 ```md
 AS a freelance web developer
@@ -21,7 +21,7 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 ```
 
-### Acceptance Criteria
+### Acceptance Criteria*
 
 ```md
 GIVEN a command-line application that accepts user input
@@ -39,6 +39,7 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
+demo: 
 
 ## Installation
 
@@ -46,12 +47,20 @@ Inquirer & Jest
 
 ## Usage 
 
-To create an SVG logo using a node js command line application.
+To create an SVG logo using a Node JS command line application.
 
 ## License
 
-This application is covered under: MIT License   
+This application is covered under: MIT License.  
   
 ## Tests 
+
+Unit Tests
+
+## Credit
+
+*[UCD readme file](https://git.bootcampcontent.com/University-of-California---Davis/UCD-VIRT-FSF-PT-09-2023-U-LOLC/-/blob/main/10-OOP/02-Challenge/README.md)
+
+
 
  
