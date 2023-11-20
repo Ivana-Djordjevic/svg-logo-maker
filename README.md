@@ -40,6 +40,11 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
+demo:
+
+[svg-logo-maker.webm](https://github.com/Ivana-Djordjevic/svg-logo-maker/assets/127266659/a432c0ca-02aa-4be9-9110-bd2bd1efac73)
+
+
 [demo link](https://drive.google.com/file/d/1bTiTBK2kXB-zhuIrEfqXuCu0Rv2M0RY8/view)
 
 ## Installation
