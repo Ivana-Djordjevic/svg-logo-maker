@@ -1,7 +1,7 @@
 // packages needed for this application
 const fs = require('fs'); 
-const init = require('./lib/inquire');
-const setShapes = require('./lib/setShapes');
+const init = require('./utils/inquire');
+const setShapes = require('./utils/setShapes');
 
 //renders SVG file
 async function renderFile() {

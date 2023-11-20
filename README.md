@@ -54,8 +54,8 @@ To create an SVG logo using a Node JS command line application.
 This application is covered under: MIT License.  
   
 ## Tests 
-
 Unit Tests
+NPM tests, use command 'npm run test'.
 
 ## Credit
 

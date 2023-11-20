@@ -1,7 +1,7 @@
 // packages needed for this application
-const Circle = require('./circle');
-const Triangle = require('./triangle');
-const Square = require('./square');
+const Circle = require('../lib/circle');
+const Triangle = require('../lib/triangle');
+const Square = require('../lib/square');
 
 //sets the shape that will be rendered relative to user's input
 function setShapes(data) {
